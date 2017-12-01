@@ -1,12 +1,12 @@
 # My projects :zap:
 
-:shipit: C# | :trollface: Pawn ([AMXx](http://www.amxmodx.org/about.php))
------------- | -------------
-:thumbsup: https://github.com/EpicMorg/SteamCMD_reUI | :thumbsup: https://github.com/EpicMorgVault/AMXx-Player-Renamer
-:thumbsup: https://github.com/EpicMorg/Gamer-Lab_SDK_Launcher | :ok_hand: https://github.com/EpicMorgVault/AMXx-Easy-Noclip
-:thumbsup: https://github.com/EpicMorg/Easy-ADB-Screenshoter | :ok_hand: https://github.com/EpicMorgVault/AMXx-Sound-connect-announce
-:thumbsup: https://github.com/EpicMorg/SuperWave-to-WooComemrce-CSV-Converter
-:ok_hand: https://github.com/EpicMorg/EMRJT
+:shipit: C# | :trollface: Pawn ([AMXx](http://www.amxmodx.org/about.php)) | :scream_cat: Sites 
+------------ | ------------- | -------------
+:thumbsup: https://github.com/EpicMorg/SteamCMD_reUI | :thumbsup: https://github.com/EpicMorgVault/AMXx-Player-Renamer | https://ww.epicm.org/ ([Bootstrap 4](http://getbootstrap.com/) + [Bootswach](https://bootswatch.com/) + [FontAwesome](http://fontawesome.io) + [ModX Revo](https://modx.com/))
+:thumbsup: https://github.com/EpicMorg/Gamer-Lab_SDK_Launcher | :ok_hand: https://github.com/EpicMorgVault/AMXx-Easy-Noclip | https://nekto.pro/ ([Bootstrap 4](http://getbootstrap.com/) + [Bootswach](https://bootswatch.com/) + [FontAwesome](http://fontawesome.io) + [ModX Revo](https://modx.com/))
+:thumbsup: https://github.com/EpicMorg/Easy-ADB-Screenshoter | :ok_hand: https://github.com/EpicMorgVault/AMXx-Sound-connect-announce | https://stargate.community/ ([Bootstrap 4](http://getbootstrap.com/) + [FontAwesome](http://fontawesome.io) + [ModX Revo](https://modx.com/))
+:thumbsup: https://github.com/EpicMorg/SuperWave-to-WooComemrce-CSV-Converter  | | https://kay-life.ru/ - [Materialize CSS](http://materializecss.com/) ([FontAwesome](http://fontawesome.io) + [ModX Revo](https://modx.com/))
+:ok_hand: https://github.com/EpicMorg/EMRJT | | (no url) ([bulma.io CSS](https://bulma.io/))
 :ok_hand: https://github.com/EpicMorg/img2base64
 :ok_hand: https://github.com/EpicMorg/goldsource_rcon_manager
 :-1: https://github.com/EpicMorg/infinite.Awaiting.challenge.fixer.quake3
