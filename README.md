@@ -1,16 +1,33 @@
 # My projects :zap:
 
-:shipit: C# | :trollface: Pawn ([AMXx](http://www.amxmodx.org/about.php)) | :scream_cat: Sites 
------------- | ------------- | -------------
-:thumbsup: https://github.com/EpicMorg/SteamCMD_reUI | :thumbsup: https://github.com/EpicMorgVault/AMXx-Player-Renamer | https://ww.epicm.org/ ([Bootstrap 4](http://getbootstrap.com/) + [Bootswach](https://bootswatch.com/) + [FontAwesome](http://fontawesome.io) + [ModX Revo](https://modx.com/))
-:thumbsup: https://github.com/EpicMorg/Gamer-Lab_SDK_Launcher | :ok_hand: https://github.com/EpicMorgVault/AMXx-Easy-Noclip | https://nekto.pro/ ([Bootstrap 4](http://getbootstrap.com/) + [Bootswach](https://bootswatch.com/) + [FontAwesome](http://fontawesome.io) + [ModX Revo](https://modx.com/))
-:thumbsup: https://github.com/EpicMorg/Easy-ADB-Screenshoter | :ok_hand: https://github.com/EpicMorgVault/AMXx-Sound-connect-announce | https://stargate.community/ ([Bootstrap 4](http://getbootstrap.com/) + [FontAwesome](http://fontawesome.io) + [ModX Revo](https://modx.com/))
-:thumbsup: https://github.com/EpicMorg/SuperWave-to-WooComemrce-CSV-Converter  | | https://kay-life.ru/ - [Materialize CSS](http://materializecss.com/) ([FontAwesome](http://fontawesome.io) + [ModX Revo](https://modx.com/))
-:ok_hand: https://github.com/EpicMorg/EMRJT | | (no url) ([bulma.io CSS](https://bulma.io/))
+:shipit: C# 
+------------ |
+:thumbsup: https://github.com/EpicMorg/SteamCMD_reUI
+:thumbsup: https://github.com/EpicMorg/Gamer-Lab_SDK_Launcher
+:thumbsup: https://github.com/EpicMorg/Easy-ADB-Screenshoter
+:thumbsup: https://github.com/EpicMorg/SuperWave-to-WooComemrce-CSV-Converter
+:ok_hand: https://github.com/EpicMorg/EMRJT
 :ok_hand: https://github.com/EpicMorg/img2base64
 :ok_hand: https://github.com/EpicMorg/goldsource_rcon_manager
 :-1: https://github.com/EpicMorg/infinite.Awaiting.challenge.fixer.quake3
 :-1: https://github.com/EpicMorg/SKYPE_Flooder
+
+:trollface: Pawn ([AMXx](http://www.amxmodx.org/about.php)) 
+------------ |
+:thumbsup: https://github.com/EpicMorgVault/AMXx-Player-Renamer
+:ok_hand: https://github.com/EpicMorgVault/AMXx-Easy-Noclip
+:ok_hand: https://github.com/EpicMorgVault/AMXx-Sound-connect-announce 
+:ok_hand: https://github.com/EpicMorgVault/AMXx-Sound-connect-announce 
+
+
+:scream_cat: Sites: CSS Frameworks + CMS\Engines
+------------ |
+https://ww.epicm.org/ :black_circle: ([Bootstrap 4](http://getbootstrap.com/) :heavy_plus_sign: [Bootswach](https://bootswatch.com/) :heavy_plus_sign: [FontAwesome](http://fontawesome.io) :heavy_plus_sign: [ModX Revo](https://modx.com/))
+https://nekto.pro/ :black_circle: ([Bootstrap 4](http://getbootstrap.com/) + [Bootswach](https://bootswatch.com/) + [FontAwesome](http://fontawesome.io) :heavy_plus_sign: [ModX Revo](https://modx.com/))
+https://stargate.community/ :black_circle: ([Bootstrap 4](http://getbootstrap.com/) :heavy_plus_sign: [FontAwesome](http://fontawesome.io) :heavy_plus_sign: [ModX Revo](https://modx.com/))
+https://kayf-life.ru/ :black_circle: [Materialize CSS](http://materializecss.com/) :heavy_plus_sign: ([FontAwesome](http://fontawesome.io) :heavy_plus_sign: [ModX Revo](https://modx.com/))
+(no url) ([bulma.io CSS](https://bulma.io/))
+
 
 ---
  
