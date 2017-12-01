@@ -1,6 +1,6 @@
 # My projects :zap:
 
-:shipit: C# | :trollface: Pawn (AMXx)
+:shipit: C# | :trollface: Pawn ([AMXx](http://www.amxmodx.org/about.php))
 ------------ | -------------
 :thumbsup: https://github.com/EpicMorg/SteamCMD_reUI | :thumbsup: https://github.com/EpicMorgVault/AMXx-Player-Renamer
 :thumbsup: https://github.com/EpicMorg/Gamer-Lab_SDK_Launcher | :ok_hand: https://github.com/EpicMorgVault/AMXx-Easy-Noclip
@@ -19,6 +19,6 @@
 :link: Link | :interrobang: Description
 ------------ | -------------
 :fire: https://github.com/stamepicmorg/NFC_ReTag_ru_translate | Official translation to russian lang
-:fire: https://github.com/EpicMorgGames/metamod-r-game-tests | Testing game servers with metamod-r
+:fire: https://github.com/EpicMorgGames/metamod-r-game-tests | Testing game servers with [metamod-r](https://github.com/theAsmodai/metamod-r)
 :star: https://github.com/ZXCmod | Official hosting of sources
 :star: https://github.com/old-kasthack-s-projects/ZenCSS | CSS for Kinokopilka, Urban3p
