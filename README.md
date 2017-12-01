@@ -7,10 +7,10 @@
 :thumbsup: https://github.com/EpicMorg/Easy-ADB-Screenshoter | :ok_hand: https://github.com/EpicMorgVault/AMXx-Sound-connect-announce
 :thumbsup: https://github.com/EpicMorg/SuperWave-to-WooComemrce-CSV-Converter
 :ok_hand: https://github.com/EpicMorg/EMRJT
-:ok_hand: https://github.com/stamepicmorg/img2base64
-:ok_hand: https://github.com/stamepicmorg/goldsource_rcon_manager
-:-1: https://github.com/stamepicmorg/infinite.Awaiting.challenge.fixer.quake3
-:-1: https://github.com/stamepicmorg/SKYPE_Flooder
+:ok_hand: https://github.com/EpicMorg/img2base64
+:ok_hand: https://github.com/EpicMorg/goldsource_rcon_manager
+:-1: https://github.com/EpicMorg/infinite.Awaiting.challenge.fixer.quake3
+:-1: https://github.com/EpicMorg/SKYPE_Flooder
 
 ---
  
