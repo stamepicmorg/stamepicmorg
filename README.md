@@ -23,6 +23,7 @@
 :scream_cat: Sites: CSS Frameworks + CMS\Engines
 ------------ |
 https://ww.epicm.org/ :black_circle: ([Bootstrap 4](http://getbootstrap.com/) :heavy_plus_sign: [Bootswach](https://bootswatch.com/) :heavy_plus_sign: [FontAwesome](http://fontawesome.io) :heavy_plus_sign: [ModX Revo](https://modx.com/))
+https://bestiarium-game.com/ :black_circle: ([Bootstrap 4](http://getbootstrap.com/) + [Bootswach](https://bootswatch.com/) + [FontAwesome](http://fontawesome.io) :heavy_plus_sign: [ModX Revo](https://modx.com/))
 https://nekto.pro/ :black_circle: ([Bootstrap 4](http://getbootstrap.com/) + [Bootswach](https://bootswatch.com/) + [FontAwesome](http://fontawesome.io) :heavy_plus_sign: [ModX Revo](https://modx.com/))
 https://stargate.community/ :black_circle: ([Bootstrap 4](http://getbootstrap.com/) :heavy_plus_sign: [FontAwesome](http://fontawesome.io) :heavy_plus_sign: [ModX Revo](https://modx.com/))
 https://kayf-life.ru/ :black_circle: [Materialize CSS](http://materializecss.com/) :heavy_plus_sign: ([FontAwesome](http://fontawesome.io) :heavy_plus_sign: [ModX Revo](https://modx.com/))
