@@ -37,6 +37,7 @@ https://kayf-life.ru/ :black_circle: [Materialize CSS](http://materializecss.com
 :link: Link | :interrobang: Description
 ------------ | -------------
 :fire: https://github.com/stamepicmorg/NFC_ReTag_ru_translate | Official translation to russian lang
-:fire: https://github.com/EpicMorgGames/metamod-r-game-tests | Testing game servers with [metamod-r](https://github.com/theAsmodai/metamod-r)
+:fire: https://github.com/EpicMorgGames/metamod-r-game-tests | Testing game servers with [metamod-r](https://github.com/theAsmodai/metamod-r) 
+:fire: https://github.com/theAsmodai/metamod-r | Official [metamod-r](https://github.com/theAsmodai/metamod-r) contributor. Just small fixes..
 :star: https://github.com/ZXCmod | Official hosting of sources
 :star: https://github.com/old-kasthack-s-projects/ZenCSS | CSS for Kinokopilka, Urban3p
