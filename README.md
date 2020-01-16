@@ -2,6 +2,9 @@
 
 :shipit: C# 
 ------------ |
+:heart: https://github.com/EpicMorg/docker-scripts
+:heart: https://github.com/EpicMorg/SteamPathsLib
+:heart: https://github.com/EpicMorg/UniversalValveToolbox
 :thumbsup: https://github.com/EpicMorg/SteamCMD_reUI
 :thumbsup: https://github.com/EpicMorg/Gamer-Lab_SDK_Launcher
 :thumbsup: https://github.com/EpicMorg/Easy-ADB-Screenshoter
