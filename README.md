@@ -1,10 +1,20 @@
-# My projects :zap:
+# Hello there 👋
+
+<img src="https://github-readme-stats.vercel.app/api?username=stamepicmorg&count_private=true&show_icons=true&include_all_commits=true&theme=radical" /> 
+
+<img src="https://raw.githubusercontent.com/stamepicmorg/info/output/github-contribution-grid-snake.svg" />
+
+# Main pet projects :zap:
+### :shipit: Most popular
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=epicmorg&repo=docker-scripts&theme=radical&show_owner=true)](https://github.com/epicmorg/docker-scripts) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=epicmorg&repo=atlassian-downloader&theme=radical&show_owner=true)](https://github.com/epicmorg/atlassian-downloader) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=epicmorg&repo=UniversalValveToolbox&theme=radical&show_owner=true)](https://github.com/epicmorg/UniversalValveToolbox) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=epicmorg&repo=SourceSDK.ENV.Editor&theme=radical&show_owner=true)](https://github.com/epicmorg/SourceSDK.ENV.Editor)
+
+ 
+
 
 :shipit: C# 
 ------------ |
-:heart: https://github.com/EpicMorg/docker-scripts
 :heart: https://github.com/EpicMorg/SteamPathsLib
-:heart: https://github.com/EpicMorg/UniversalValveToolbox
 :thumbsup: https://github.com/EpicMorg/SteamCMD_reUI
 :thumbsup: https://github.com/EpicMorg/Gamer-Lab_SDK_Launcher
 :thumbsup: https://github.com/EpicMorg/Easy-ADB-Screenshoter
