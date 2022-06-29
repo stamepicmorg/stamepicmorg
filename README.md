@@ -6,6 +6,8 @@
 <p align="right"><img src="https://github-readme-stats.vercel.app/api?username=stamepicmorg&count_private=true&show_icons=true&include_all_commits=true&theme=radical" /> </p>
 
 
+
+
 # List of my pet projects :zap:
 ### :shipit: Most popular
 
@@ -28,12 +30,17 @@
 :-1: https://github.com/EpicMorg/infinite.Awaiting.challenge.fixer.quake3
 :-1: https://github.com/EpicMorg/SKYPE_Flooder
 
+
+<p align="left"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stamepicmorg&theme=solarized_dark" /> </p>
+
 :trollface: Pawn ([AMXx](http://www.amxmodx.org/about.php)) 
 ------------ |
 :thumbsup: https://github.com/EpicMorgVault/AMXx-Player-Renamer
 :ok_hand: https://github.com/EpicMorgVault/AMXx-Easy-Noclip
 :ok_hand: https://github.com/EpicMorgVault/AMXx-Sound-connect-announce 
 :ok_hand: https://github.com/EpicMorgVault/AMXx-Sound-connect-announce 
+
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=stamepicmorg&theme=darkhub" /> </p>
 
 
 :scream_cat: Sites: CSS Frameworks + CMS\Engines
@@ -57,3 +64,6 @@ https://kayf-life.ru/ :black_circle: [Materialize CSS](http://materializecss.com
 :fire: https://github.com/theAsmodai/metamod-r | Official [metamod-r](https://github.com/theAsmodai/metamod-r) [contributor](https://github.com/theAsmodai/metamod-r/graphs/contributors). Just small fixes..
 :star: https://github.com/ZXCmod | Official hosting of sources
 :star: https://github.com/old-kasthack-s-projects/ZenCSS | CSS for Kinokopilka, Urban3p
+
+
+<p align="left"><img src="https://activity-graph.herokuapp.com/graph?username=stamepicmorg" /> </p>
