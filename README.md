@@ -1,6 +1,7 @@
 <h1 align="center">Hi there 👋 and Welcome to my page</a></h1>
-
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?lines=TechLead+%E2%80%A2+DevOps+%E2%80%A2+SysAdmin" /> </p>
 <p align="center"><img src="https://raw.githubusercontent.com/stamepicmorg/info/output/github-contribution-grid-snake.svg" /></p>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?duration=2500&lines=Docker%2C+Linux;TeamCity%2C+Gitlab%2C+Jenkins;+ESXI%2C+vSphere;Zabbix%2C+Grafana%2C+ELK;Jira%2C+Confluence%2C+BitBucket;Testrail%2C+Redmine%2C+TestLink;Perforce%2C+Git;Nginx%2C+Apache2;Ansible%2C+Salt" /> </p>
 
 <p align="right"><img src="https://github-readme-stats.vercel.app/api?username=stamepicmorg&count_private=true&show_icons=true&include_all_commits=true&theme=radical" /> </p>
 
